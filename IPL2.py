@@ -6,7 +6,6 @@ teams = ['SRH', 'RCB', 'CSK', 'KXIP', 'RR', 'MI', 'DC', 'KKR']
 print('Number of teams: ', len(teams))
 
 #Initialising and creating matches list
-#Editing the line here
 Matches = []
 for j in range(0,7):
     k = j+1
